@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2? family = Noto + Serif + JP: wght @ 200 & display = swap');
+/*https://color.adobe.com/es/Dise%C3%B1o%20gr%C3%A1fico-color-theme-17315776*/
+*
+{
+    font-family: 'Oswald', sans-serif;
+}
+
+#banner
+{
+	background: url("https://image.freepik.com/vector-gratis/copia-espacio-azul-circuitos-fondo-digital_23-2148821699.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #ffffff;
+	padding: 16em 0em 14em;
+	text-align: center;
+}
+
+#banner h1
+{
+	color: #ffffff;
+	font-size: 3em;
+	line-height: 1em;
+	margin: 0 0 0.5em 0;
+	padding: 0;
+}
+blockquote
+{
+        font-size: 1.5em;
+		border-left: solid 4px rgba(144, 144, 144, 0.25);
+		font-family: 'Nanum Myeongjo', serif;
+		margin: 2%;
+		padding: 0.5em 0 0.5em 2em;
+}
+body
+{
+    margin: 5%;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+
+div>ulahbueno
+{
+    text-align: center;
+}
